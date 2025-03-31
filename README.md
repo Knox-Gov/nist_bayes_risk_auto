@@ -18,7 +18,7 @@ The application reads a list of NIST 800-53 R5 controls from an input CSV file. 
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Knox-Gov/nist_bayes_risk_auto.git
 cd nist_bayes_risk_auto
 ```
 
